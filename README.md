@@ -28,5 +28,5 @@ https://the-wild-oasis-website-woad-eta.vercel.app/
   ---
 
 ## 元教材
-Udemy
-Jonas Schmedtmann　The Ultimate React Course 2025: React, Next.js, Redux & More　https://www.udemy.com/course/the-ultimate-react-course/?couponCode=MT251028JP
+Udemy - Jonas Schmedtmann The Ultimate React Course 2025: React, Next.js, Redux & More　https://www.udemy.com/course/the-ultimate-react-course/?couponCode=MT251028JP
+
